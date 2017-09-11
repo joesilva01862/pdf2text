@@ -14,7 +14,7 @@ This application was created to read publicly available specific real estate PDF
 2. Your browser will open that PDF automatically
 3. Copy and paste the link into PdfExtractorMain class.
 
-If you need help incorporating Zillow web services into your web app or developing your RE web app, [let me know](mailto:joesilva01862@gmail.com?Subject=Contact me about RE web app).
+If you need help with this or incorporating Zillow web services into your web app, let me know.
  
 Enjoy!
 
